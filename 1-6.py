@@ -11,12 +11,7 @@ elif a % 400 == 0:
     print("True")
 else:
     print("False")
-# now we would like to try the push
 
-#test delete
-
-print("正在測試")
-
-#test 11:22 剛剛的沒有裝不知道有沒有上去
-
-#test 11:23 after two
+#這是第三版test after 3
+#總之變更點我在介面上都沒顯示過啊 更不用說回復了
+#從剛剛到現在都只能直接推

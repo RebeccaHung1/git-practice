@@ -13,3 +13,6 @@ else:
     print("False")
 # now we would like to try the push
 
+#test delete
+
+print("正在測試")
